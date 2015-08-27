@@ -7,5 +7,7 @@ CUDA Getting Started
 * Tested on: OSX Yosemite 10.10.5, i7 @ 2.4GHz 16GB, GT 650M 1024MB (rMBP Early 2013)
 
 ## SCREENSHOTS
+![](images/Part4.png)
 
 ## TIMELINE
+![](images/Part5.png)
