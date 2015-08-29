@@ -6,9 +6,6 @@ CUDA Getting Started
 * Bradley Crusco
 * Tested on: Windows 10, i7-3770K @ 3.50GHz 16GB, 2 x GTX 980 4096MB (Personal Computer)
 
-### (TODO: Your README)
+![](images/Project0.png "The Application Running")
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put anything here that you don't want to
-share with the world.)
-
-![](images/Project0.png)
+![](images/Project0 Profiling.png "The Application Running")
