@@ -9,5 +9,5 @@ CUDA Getting Started
 **Application Running**
 ![](images/Project0.png "The Application Running")
 
-**NSight Cudo Profiling Timeline**
+**NSight CUDA Profiling Timeline**
 ![](images/Project0 Profiling.png "The Application NSight Profiling")
