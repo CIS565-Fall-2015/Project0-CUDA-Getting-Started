@@ -8,8 +8,6 @@ CUDA Getting Started
 
 ![](images/hw0_screenshot.png)
 
-   * Embed the screenshots you took. (`![](images/example.png`)
-
 ## Submit
 1. Open a GitHub pull request so that we can see that you have finished.
    The title should be "Submission: YOUR NAME".
