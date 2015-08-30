@@ -5,11 +5,10 @@ CUDA Getting Started
 
 * Guan Sun
 * Tested on: Mac OS X Yosemite 10.10.5, Intel Core i7 @ 2.3GHz 8GB, GeForce GT 650M 1024MB
-### (TODO: Your README)
 
 Include screenshots, analysis, etc. (Remember, this is public, so don't put anything here that you don't want to
 share with the world.)
 
-![](images/Screenshot1.png
-![](images/Screenshot2.png
+![](images/Screenshot1.png)
+![](images/Screenshot2.png)
 
