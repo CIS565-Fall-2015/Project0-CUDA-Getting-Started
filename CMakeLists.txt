@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 3.0)
 
 project(cis565_getting_started)
 
+set(CUDA_SDK_ROOT_DIR "C:/Program Files/NVIDIA GPU COMPUTING Toolkit/CUDA/v7.0")
+
 set(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
 
 # Set up include and lib paths
