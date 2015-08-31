@@ -6,8 +6,8 @@ CUDA Getting Started
 * Joseph Coto
 * Tested on: Windows 8.1, i5-4670k @ 3.40GHz 3.40GHz 16.0GB, GTX 770 4.0GB (Personal desktop)
 
-![](images/Capture.png
-![](images/Capture2.png
+![](images/Capture.png)
+![](images/Capture2.png)
 ## Part 6: Write-up
 
 1. Update ALL of the TODOs at the top of this README:
