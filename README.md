@@ -9,5 +9,6 @@ CUDA Getting Started
 All the required software or middle ware are porperly installed.
 this is the screenshot of the program:
 ![](images/screenshot.jpg)
+
 this is the timeline of the result:
-![](images/timeline.png)
+![](images/timeline.jpg)
