@@ -1,5 +1,5 @@
 Zhimin Zhao
 ASUS-NotebookSKU G551JM
 personal laptop
-![](/images/performance analysis.png)
-![](/images/final result.png)
+![performance](images/performance analysis.png)
+![result](images/final result.png)
