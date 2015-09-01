@@ -6,8 +6,6 @@ CUDA Getting Started
 * Kangning Li
 * Tested on: September 01, 2015 Windows 10, i7-4790 @ 3.6GHz 16GB, GTX 970 4096MB (Personal)
 
-### (TODO: Your README)
-
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
 
