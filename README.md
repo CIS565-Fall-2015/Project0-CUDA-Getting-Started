@@ -9,9 +9,9 @@ CUDA Getting Started
 Include screenshots, analysis, etc. (Remember, this is public, so don't put anything here that you don't want to
 share with the world.)
 
-**Part 4: Modify
+**Part 4: Modify**
 ![](images/Screenshot1.png)
 
-**Part 5: Analyze
+**Part 5: Analyze**
 ![](images/Screenshot2.png)
 
