@@ -5,5 +5,6 @@ CUDA Getting Started
 
 * Levi Cai
 * Tested on: Windows 7, i7-4770 @ 3.40GHz 16GB, NVidia NVS 310 512MB (Moore 100C Lab)
+* Note: Couldn't find a machine to run Analysis on
 
 ![](images/hw0_screenshot.png)
