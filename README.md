@@ -38,6 +38,10 @@ important for debugging performance bottlenecks in your program. If you do not
 have administrative access to any CUDA-capable machine, please email the TA.
 
 
+## ScreenShots
+![](images/Output.png)
+![](images/Timeline.png)
+
 ## Part 1: Setting up your development environment
 
 Skip this part if you are developing on a lab computer.
