@@ -8,5 +8,8 @@ CUDA Getting Started
 
 ![](images/momeg_scrnsht.png "Megan Moore's first output")
 
+![](images/Timeline.png "Progress timeline")
+
+
 End of Project 0
 
