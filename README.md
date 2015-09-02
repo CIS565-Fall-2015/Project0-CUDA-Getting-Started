@@ -11,4 +11,4 @@ CUDA Getting Started
 Include screenshots, analysis, etc. (Remember, this is public, so don't put
 anything here that you don't want to share with the world.)
 
-![alt tag](https://github.com/ziyezhou-Jerry/Project0-CUDA-Getting-Started/tree/master/images/screenshot1.png)
+![alt tag](https://github.com/ziyezhou-Jerry/Project0-CUDA-Getting-Started/blob/master/images/screenshot1.png?raw=true)
