@@ -6,6 +6,10 @@ Zhimin Zhao
 
 Tested on: Windows 8.1, i7-4710HQ @ 2.50GHz 16GB, 2 x GTX 860 4096MB (Personal Computer)
 
+##Performance
+
 ![performance](images/performance analysis.PNG)
+
+##Results
 
 ![result](images/final result.PNG)
